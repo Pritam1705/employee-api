@@ -181,8 +181,13 @@ Version | Supported? | Import | Notes
 Yes, please! [`Makefile`](Makefile) is your friend,
 read the [development guide](CONTRIBUTING.md).
 
+
+
 Also have a look at the [FAQ](FAQ.md).
 
 ---
+#Cred scanning
+AWS_ACCESS_KEY_ID=ASIAIOSFODNN7EXAMPLE AWS_SECRET_ACCESS_KEY=wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
+password=root
 
 Looking for alternatives? [https://awesome-go.com/#database](https://awesome-go.com/#database).
